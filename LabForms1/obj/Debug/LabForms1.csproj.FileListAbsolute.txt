@@ -1,0 +1,10 @@
+D:\C#\LabForms1\LabForms1\bin\Debug\LabForms1.exe.config
+D:\C#\LabForms1\LabForms1\bin\Debug\LabForms1.exe
+D:\C#\LabForms1\LabForms1\bin\Debug\LabForms1.pdb
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.csprojResolveAssemblyReference.cache
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.Properties.Resources.resources
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.csproj.GenerateResource.Cache
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.exe
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.pdb
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.MainForm.resources
+D:\C#\LabForms1\LabForms1\obj\Debug\LabForms1.SortForm.resources
